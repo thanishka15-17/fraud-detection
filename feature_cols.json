@@ -1,0 +1,1 @@
+["Transaction_Amount", "Transaction_Type", "Account_Balance", "Device_Type", "Location", "Merchant_Category", "Daily_Transaction_Count", "Avg_Transaction_Amount_7d", "Failed_Transaction_Count_7d", "Card_Type", "Card_Age", "Transaction_Distance", "Authentication_Method", "Is_Weekend", "Hour", "Day_Of_Week", "Month", "Amount_Log", "Is_High_Value", "Failed_Ratio"]
